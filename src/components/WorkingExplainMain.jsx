@@ -51,9 +51,11 @@ const WorkingExplainMain = () => {
           </p>
         </div>
       )}
+
       <BlockOne />
       <BlockTwo />
       <BlockThree />
+      
     </div>
   );
 };
