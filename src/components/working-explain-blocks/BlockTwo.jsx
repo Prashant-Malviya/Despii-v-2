@@ -36,7 +36,7 @@ const BlockTwo = () => {
                   information and recommendations
                 </p>
                 </div>
-                <div className="mt-20 p-3 text-white mb-5 lg:mb-0 ">02/03</div>
+                <div className="mt-20 p-3 text-white mb-5 lg:mb-0 font-bold ">02/03</div>
               </div>
               <div className="relative  mt-16 h-[35.31rem] lg:mt-8 lg:mb-7">
                 <img
@@ -49,7 +49,7 @@ const BlockTwo = () => {
             </div>
           </div>
           <div className="bg-neutral-900  flex flex-col lg:hidden  mt-14 font-manrope">
-            <div className=" text-orange-500 ">02/03</div>
+            <div className=" text-orange-500 font-bold">02/03</div>
             <h2 className="text-3xl  tracking-tight text-white sm:text-4xl font-manrope  mt-6">
               Propose a route
             </h2>
@@ -95,7 +95,7 @@ const BlockTwo = () => {
                   recommandations.
                 </p>
                 </div>
-                <div className="mt-20 p-3 text-white mb-5 lg:mb-0 ">02/03</div>
+                <div className="mt-20 p-3 text-white mb-5 lg:mb-0 font-bold">02/03</div>
               </div>
               <div className="relative  mt-16 h-[35.31rem] lg:mt-8 lg:mb-7 ">
                 <img
@@ -108,7 +108,7 @@ const BlockTwo = () => {
             </div>
           </div>
           <div className="bg-neutral-900  flex flex-col lg:hidden mt-14 font-manrope">
-            <div className=" text-orange-500 ">02/03</div>
+            <div className=" text-orange-500 font-bold ">02/03</div>
             <h2 className="text-3xl  tracking-tight text-white sm:text-4xl font-manrope  mt-6">
               Propose ton trajet
             </h2>
