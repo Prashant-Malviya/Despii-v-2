@@ -22,17 +22,17 @@ const BlockThree = () => {
           </div>
 
             <div className="relative isolate overflow-hidden bg-neutral-500/10 px-6 pt-16 shadow-2xl sm:rounded-3xl sm:px-16 md:pt-24 lg:flex lg:gap-x-20 lg:px-24 lg:pt-0">
-              <div className="mx-auto max-w-md text-center lg:mx-0 lg:flex-auto  lg:text-left lg:mt-20">
+              <div className="mx-auto max-w-md text-center lg:mx-0 lg:flex-auto  lg:text-left lg:mt-12 lg:space-y-40">
                 <div className=" p-3 rounded-xl border-2 border-white w-12 mt-5">
                   <FaArrowRight className="text-2xl text-white" />
                 </div>
+                <div>
                 <div className="lg:mt-20">
                   <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl ">
                     Match with a rider
                     <br />
                   </h2>
                 </div>
-
                 <p className="mt-6 text-lg leading-8 text-gray-300">
                   Easily connect with a rider who matches your preferences and
                   needs, ensuring a comfortable and convenient journey tailored
@@ -40,6 +40,7 @@ const BlockThree = () => {
                 </p>
                 <div className="mt-20 p-3 text-white mb-5 ">03/03</div>
               </div>
+</div>
               <div className="relative mt-16 h-[35.31rem] lg:mt-8 lg:mb-7 ">
                 <img
                   className="absolute left-0 top-0 w-auto max-w-none rounded-t-[45px] lg:rounded-b-[45px] bg-white/5 ring-1 ring-white/10 overflow-hidden"
@@ -80,10 +81,11 @@ const BlockThree = () => {
           </div>
 
             <div className="relative isolate overflow-hidden bg-neutral-500/10 px-6 pt-16 shadow-2xl sm:rounded-3xl sm:px-16 md:pt-24 lg:flex lg:gap-x-20 lg:px-24 lg:pt-0">
-              <div className="mx-auto max-w-md text-center lg:mx-0 lg:flex-auto  lg:text-left lg:mt-20">
+              <div className="mx-auto max-w-md text-center lg:mx-0 lg:flex-auto  lg:text-left lg:mt-12 lg:space-y-28">
                 <div className=" p-3 rounded-xl border-2 border-white w-12 mt-5">
                   <FaArrowRight className="text-2xl text-white" />
                 </div>
+                <div>
                 <div className="lg:mt-20">
                   <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl ">
                     Match avec un passager
@@ -95,6 +97,7 @@ const BlockThree = () => {
                   préférences et à tes besoins, garantissant un voyage
                   confortable et pratique, conçu spécialement pour toi
                 </p>
+                </div>
                 <div className="mt-20 p-3 text-white mb-5 lg:mb-0">03/03</div>
               </div>
               <div className="relative mt-16 h-[35.31rem] lg:mt-8 lg:mb-7">

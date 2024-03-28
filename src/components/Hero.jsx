@@ -267,7 +267,7 @@ const Hero = () => {
                     transport industry
                   </motion.span>
                 </h1>
-                <p className="mb-4  text-base leading-8 text-white max-w-3xl mx-auto font-manrope lg:mt-5">
+                <p className="mb-5  text-base leading-8 text-white max-w-3xl mx-auto font-manrope lg:mt-5">
                   The smart moped hailing app eco-friendly based on shared
                   economy, providing swift <br /> and hassle-free rides through
                   bustling city streets.

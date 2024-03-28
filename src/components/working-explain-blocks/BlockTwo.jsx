@@ -19,10 +19,11 @@ const BlockTwo = () => {
             </div>
 
             <div className="relative isolate overflow-hidden bg-neutral-500/10 px-6 pt-16 shadow-2xl sm:rounded-3xl sm:px-16 md:pt-24 lg:flex lg:gap-x-20 lg:px-24 lg:pt-0">
-              <div className="mx-auto max-w-md text-center lg:mx-0 lg:flex-auto  lg:text-left lg:pt-24">
+              <div className="mx-auto max-w-md text-center lg:mx-0 lg:flex-auto  lg:text-left lg:pt-12 lg:space-y-32">
                 <div className=" p-3 rounded-xl border-2 border-white w-12 lg:mt-5">
                   <FaArrowRight className="text-2xl text-white" />
                 </div>
+                <div>
                 <div className="lg:mt-20">
                   <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl ">
                     Propose a route
@@ -34,6 +35,7 @@ const BlockTwo = () => {
                   intelligent route suggestion feature, providing detailed
                   information and recommendations
                 </p>
+                </div>
                 <div className="mt-20 p-3 text-white mb-5 lg:mb-0 ">02/03</div>
               </div>
               <div className="relative  mt-16 h-[35.31rem] lg:mt-8 lg:mb-7">
@@ -75,10 +77,11 @@ const BlockTwo = () => {
             </div>
 
             <div className="relative isolate overflow-hidden bg-neutral-500/10 px-6 pt-16 shadow-2xl sm:rounded-3xl sm:px-16 md:pt-24 lg:flex lg:gap-x-20 lg:px-24 lg:pt-0">
-              <div className="mx-auto max-w-md text-center lg:mx-0 lg:flex-auto  lg:text-left lg:mt-16">
+              <div className="mx-auto max-w-md text-center lg:mx-0 lg:flex-auto  lg:text-left lg:mt-12  lg:space-y-28">
                 <div className=" p-3 rounded-xl border-2 border-white w-12 mt-5">
                   <FaArrowRight className="text-2xl text-white" />
                 </div>
+                <div>
                 <div className="lg:mt-20">
                   <h2 className="text-3xl font-bold tracking-tight text-white sm:text-4xl ">
                     Propose ton trajet
@@ -91,6 +94,7 @@ const BlockTwo = () => {
                   fournissant des informations détaillées et des
                   recommandations.
                 </p>
+                </div>
                 <div className="mt-20 p-3 text-white mb-5 lg:mb-0 ">02/03</div>
               </div>
               <div className="relative  mt-16 h-[35.31rem] lg:mt-8 lg:mb-7 ">
